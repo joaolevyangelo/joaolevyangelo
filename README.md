@@ -45,6 +45,7 @@ Currently I am
 
 ### 📊 Estatísticas
 
-![joaolevyangelo's Stats](https://github-readme-stats.vercel.app/api?username=joaolevyangelo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![joaolevyangelo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaolevyangelo&theme=gotham&hide_border=true)
-![joaolevyangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolevyangelo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+<image width="400" src="https://github-readme-stats.vercel.app/api?username=joaolevyangelo&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
+<image width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolevyangelo&theme=gotham&hide_border=true" />
+</div>
