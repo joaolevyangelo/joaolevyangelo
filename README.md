@@ -13,7 +13,6 @@ Currently I am
 
 ---
 
-<h3 align="center">My Stack</h3>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolevyangelo&show_icons=true&theme=github_dark&include_all_commits=true&locale-pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolevyangelo&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
