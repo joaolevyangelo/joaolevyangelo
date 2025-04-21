@@ -46,6 +46,6 @@ Currently I am
 ### 📊 Estatísticas
 
 <div align="center">
-<image width="400" src="https://github-readme-stats.vercel.app/api?username=joaolevyangelo&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-<image width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolevyangelo&theme=gotham&hide_border=true" />
+<image width="400" src="![joaolevyangelo's Stats](https://github-readme-stats.vercel.app/api?username=joaolevyangelo&theme=dark&show_icons=true&hide_border=true&count_private=true)" />
+<image width="400" src="![joaolevyangelo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaolevyangelo&theme=dark&hide_border=true)" />
 </div>
