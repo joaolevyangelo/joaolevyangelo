@@ -45,20 +45,6 @@ Currently I am
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaolevyangelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolevyangelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![joaolevyangelo's Stats](https://github-readme-stats.vercel.app/api?username=joaolevyangelo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![joaolevyangelo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaolevyangelo&theme=gotham&hide_border=true)
+![joaolevyangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolevyangelo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
