@@ -7,15 +7,9 @@ Currently I am
 - 🇩🇪  Learning German
 - 🇬🇧  Enhancing English skills
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-levy-571a24245/">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    </p>
+<div>
+  <a href="https://www.linkedin.com/in/VitorLuisNonino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
