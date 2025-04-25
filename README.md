@@ -1,9 +1,10 @@
 # system.out.println("Hi There! I'm João Levy");
 
 Currently I am
+
+- 🎓 Studying Software Engineering
 - 💻 Learning programming logic with JS
 - ♟️ Developing Java skills 
-- 🎓 Studying Software Engineering
 - 🇩🇪  Learning German
 - 🇬🇧  Enhancing English skills
 - 🛠️ Building Backend Skills with Node.js
