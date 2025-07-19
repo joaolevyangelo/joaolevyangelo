@@ -2,17 +2,12 @@
 
 Currently I am
 
-- Studying php
+- ♟️Studying php, aiming Java
 - 🇩🇪 LEarning German
 - 🇪🇳 Enhancing English skills
+- 💡Mastering Problem-Solving Strategies
 
-// - 🎓 Studying Software Engineering
-- ♟️ Developing Java skills 
-- 🇩🇪  Learning German
-- 🇪🇳  Enhancing English skills
-- 🛠️ Building Backend Skills with php
-- 💡 Mastering Problem-Solving Strategies
-//
+  
 <div>
   <a href="https://www.linkedin.com/in/joaolevyangelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
