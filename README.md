@@ -2,14 +2,17 @@
 
 Currently I am
 
-- 🎓 Studying Software Engineering
-- 💻 Learning programming logic with JS
+- Studying php
+- 🇩🇪 LEarning German
+- 🇪🇳 Enhancing English skills
+
+/* - 🎓 Studying Software Engineering
 - ♟️ Developing Java skills 
 - 🇩🇪  Learning German
-- 🇬🇧  Enhancing English skills
-- 🛠️ Building Backend Skills with Node.js
+- 🇪🇳  Enhancing English skills
+- 🛠️ Building Backend Skills with php
 - 💡 Mastering Problem-Solving Strategies
-
+*/
 <div>
   <a href="https://www.linkedin.com/in/joaolevyangelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
